@@ -15,7 +15,7 @@ from src.lightgcn_model import recomendar_lightgcn  # Importar LightGCN
 
 st.set_page_config(page_title="Recomendador Turístico Puno", layout="wide")
 st.title("Sistema de Recomendación Turística Inteligente")
-st.markdown("Basado en un grafo híbrido (colaborativo + contenido)")
+st.markdown("Grafo híbrido ")
 
 col_izq, col_der = st.columns([1.2, 1.8], gap="medium")
 

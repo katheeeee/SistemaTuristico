@@ -8,7 +8,7 @@ atractivos = [
     {"id": "A6", "nombre": "Mirador El Condor", "tipo": "mirador", "zona": "Altura", "popularidad": 7},
     {"id": "A7", "nombre": "Museo Carlos Dreyer", "tipo": "museo", "zona": "Centro", "popularidad": 6},
     {"id": "A8", "nombre": "Chucuito", "tipo": "arqueológico", "zona": "Sur", "popularidad": 6},
-    {"id": "A9", "nombre": "Feria de la Candelaria", "tipo": "evento", "zona": "Puno", "popularidad": 9},
+    {"id": "A9", "nombre": "Festividad Virgen de la Candelaria", "tipo": "evento", "zona": "Puno", "popularidad": 9},
     {"id": "A10", "nombre": "Ruta del Qhapaq Ñan", "tipo": "senderismo", "zona": "Andes", "popularidad": 7},
 ]
 
