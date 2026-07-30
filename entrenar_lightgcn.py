@@ -1,7 +1,7 @@
 # entrenar_lightgcn.py
 import sys
 import os
-sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
 
 from lightgcn_model import entrenar_lightgcn
 

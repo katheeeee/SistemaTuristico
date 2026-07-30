@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "PROYECTOfinal",
+			"path": ".."
+		},
+		{
+			"name": ".streamlit",
+			"path": "../../../../../Downloads/puno_recom/puno_recom/.streamlit"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"editorError.foreground": "#00000000",
+			"editorGroup.border": "#00b3b3",
+			"editorInfo.foreground": "#00000000",
+			"editorWarning.foreground": "#00000000",
+			"panel.border": "#00b3b3",
+			"sash.hoverBorder": "#00b3b3",
+			"sideBar.border": "#00b3b3",
+			"statusBar.background": "#008080",
+			"statusBar.border": "#008080",
+			"statusBar.debuggingBackground": "#800000",
+			"statusBar.debuggingBorder": "#800000",
+			"statusBarItem.hoverBackground": "#00b3b3",
+			"statusBarItem.remoteBackground": "#ff80ff",
+			"tab.activeBorder": "#00b3b3",
+			"titleBar.activeBackground": "#008080",
+			"titleBar.border": "#008080",
+			"titleBar.inactiveBackground": "#00808099"
+		}
+	}
+}

@@ -1,7 +1,7 @@
 # entrenar_meta.py
 import sys, os
-sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
-from src.preparar_meta_dataset import generar_dataset, entrenar_meta_recomendador  # añade src.
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
+from preparar_meta_dataset import generar_dataset, entrenar_meta_recomendador
 
 import joblib
 
